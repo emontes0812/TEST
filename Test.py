@@ -5,5 +5,3 @@ if h==2:
     print("Orlando")
 if h==3:
     print("Montes")
-else:
-    print("Ruiz")
